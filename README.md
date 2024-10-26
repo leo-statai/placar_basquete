@@ -1,5 +1,7 @@
 # Programa *placar_basquete_v1.0* em Python
 
+Fork da minha conta antiga do Github [link](https://github.com/leonardo01e).
+
 # Introdução
 Programa em Python que simula um placar de basquetebol simples para disputa entre dois times.
 Com ele é possível adicionar 1, 2 e 3 pontos através do teclado de maneira fácil. As correções também são facilitadas através de tecla específica para reduzir um ponto por vez.
